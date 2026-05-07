@@ -131,7 +131,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-  
+  - [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome
+   - **Tags**: `Free` `AI` `Writing` `Productivity` `Education` `Spellcheck`
+   - **Pricing**: Free tier, Pro
   
 ## Writing
 
